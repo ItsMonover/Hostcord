@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ItsMonover/Hostcord"><img src="" alt="Hostcord"></a>
+  <a href="https://github.com/ItsMonover/Hostcord"><img src="https://media.discordapp.net/attachments/1119257753987334205/1269685893908791306/hostcord.png?ex=66b0f6a2&is=66afa522&hm=d0640ed90f57d18a0a315d96d008f1e862750691723572bb07fad535e9afadba&=&format=webp&quality=lossless" alt="Hostcord"></a>
   <br>
   Hostcord
   <br>

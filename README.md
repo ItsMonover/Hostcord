@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Preview-Hostcord-blue.svg"
          alt="Preview">
   </a>
-  <a href="https://discord.com/users/1119232751678259200">
+  <a href="https://discord.com/users/1119229177137205309">
     <img src="https://img.shields.io/badge/Contact%20on%20Discord-@Comeguy-7289DA.svg"
          alt="Contact on Discord">
   </a>
@@ -85,7 +85,7 @@ This software uses the following open source packages:
 
 
   <a href="https://discord.com/users/1119229177137205309">
-    <img src="https://dcbadge.vercel.app/api/shield/1119232751678259200" alt="Discord Badge"/>
+    <img src="https://dcbadge.vercel.app/api/shield/1119229177137205309" alt="Discord Badge"/>
   </a>
 
 ## License

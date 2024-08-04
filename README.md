@@ -27,9 +27,7 @@
   <a href="#license">License</a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/MeComeguy/Hostcord/blob/1f596d51512321e55399fbd24b7723fb98e68870/preview.png" alt="screenshot">
-</p>
+
 
 ## Key Features
 

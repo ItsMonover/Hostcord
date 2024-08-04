@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/MeComeguy/Hostcord"><img src="https://github.com/MeComeguy/Hostcord/blob/1e0a2c55d6786bf36e454f689da681adf303d96c/hostcord.PNG" alt="Hostcord"></a>
+  <a href="https://github.com/ItsMonover/Hostcord"><img src="" alt="Hostcord"></a>
   <br>
   Hostcord
   <br>
